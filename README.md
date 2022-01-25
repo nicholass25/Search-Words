@@ -1,4 +1,4 @@
-# IF2124 - Strategi Algoritma
+# IF2211 - Strategi Algoritma
 
 * 13520121 - Nicholas Budiono
 
